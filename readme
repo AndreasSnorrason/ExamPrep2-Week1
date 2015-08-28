@@ -1,0 +1,3 @@
+Svar:
+
+Istedet for at der returneres data igennem metoden, giver den nu observersne besked om ændringer, hvorefter de tager hånd om det.
